@@ -12,7 +12,9 @@ namespace WinFormsApp1.DTO
 		public int Id { get; set; }
 		public string Name { get; set; }
 		public string Phone { get; set; }
-		// Hello cac ban
+		// Hello cac ban 
+
+		// tui mới them ne
 
 
 	}

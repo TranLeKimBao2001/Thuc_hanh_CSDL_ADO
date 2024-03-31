@@ -15,7 +15,7 @@ namespace WinFormsApp1.DTO
 		// Hello cac ban 
 
 		// tui mới them ne
-		// nhieu cmt
+	
 
 
 	}
